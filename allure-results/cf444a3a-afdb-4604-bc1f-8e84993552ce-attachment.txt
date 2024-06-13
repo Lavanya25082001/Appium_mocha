@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[@resource-id='com.project.kiranchavan.detoxfree:id/set_lang_btn']"
+}

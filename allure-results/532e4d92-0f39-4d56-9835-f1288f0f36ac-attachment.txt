@@ -1,0 +1,109 @@
+{
+  "script": "mobile: scroll",
+  "args": [
+    {
+      "element": {
+        "sessionId": "81ffa1a6-f556-47ac-9acd-0e929f455938",
+        "error": {
+          "error": "no such element",
+          "message": "An element could not be located on the page using the given search parameters.",
+          "stacktrace": "NoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\ramesh.ganamana\\.appium\\node_modules\\appium-uiautomator2-driver\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\\Users\\ramesh.ganamana\\AppData\\Roaming\\npm\\node_modules\\appium\\node_modules\\@appium\\base-driver\\lib\\basedriver\\commands\\find.ts:60:12)\n    at AndroidUiautomator2Driver.findElement (C:\\Users\\ramesh.ganamana\\AppData\\Roaming\\npm\\node_modules\\appium\\node_modules\\@appium\\base-driver\\lib\\basedriver\\commands\\find.ts:75:12)"
+        },
+        "selector": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.CheckBox[8]",
+        "parent": {
+          "sessionId": "81ffa1a6-f556-47ac-9acd-0e929f455938",
+          "capabilities": {
+            "platform": "LINUX",
+            "webStorageEnabled": false,
+            "takesScreenshot": true,
+            "javascriptEnabled": true,
+            "databaseEnabled": false,
+            "networkConnectionEnabled": true,
+            "locationContextEnabled": false,
+            "warnings": {},
+            "desired": {
+              "platformName": "Android",
+              "automationName": "UiAutomator2",
+              "platformVersion": "14",
+              "deviceName": "emulator-5554",
+              "appPackage": "com.project.kiranchavan.detoxfree",
+              "appActivity": "com.project.kiranchavan.detoxfree.Language"
+            },
+            "platformName": "Android",
+            "automationName": "UiAutomator2",
+            "platformVersion": "14",
+            "deviceName": "emulator-5554",
+            "appPackage": "com.project.kiranchavan.detoxfree",
+            "appActivity": "com.project.kiranchavan.detoxfree.Language",
+            "deviceUDID": "emulator-5554",
+            "deviceApiLevel": 34,
+            "deviceScreenSize": "1080x2340",
+            "deviceScreenDensity": 420,
+            "deviceModel": "sdk_gphone64_x86_64",
+            "deviceManufacturer": "Google",
+            "pixelRatio": 2.625,
+            "statBarHeight": 63,
+            "viewportRect": {
+              "left": 0,
+              "top": 63,
+              "width": 1080,
+              "height": 2214
+            }
+          }
+        },
+        "isReactElement": false,
+        "isShadowElement": false
+      },
+      "toElement": {
+        "sessionId": "81ffa1a6-f556-47ac-9acd-0e929f455938",
+        "elementId": "00000000-0000-00e0-ffff-ffff00000119",
+        "element-6066-11e4-a52e-4f735466cecf": "00000000-0000-00e0-ffff-ffff00000119",
+        "selector": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.CheckBox[1]",
+        "parent": {
+          "sessionId": "81ffa1a6-f556-47ac-9acd-0e929f455938",
+          "capabilities": {
+            "platform": "LINUX",
+            "webStorageEnabled": false,
+            "takesScreenshot": true,
+            "javascriptEnabled": true,
+            "databaseEnabled": false,
+            "networkConnectionEnabled": true,
+            "locationContextEnabled": false,
+            "warnings": {},
+            "desired": {
+              "platformName": "Android",
+              "automationName": "UiAutomator2",
+              "platformVersion": "14",
+              "deviceName": "emulator-5554",
+              "appPackage": "com.project.kiranchavan.detoxfree",
+              "appActivity": "com.project.kiranchavan.detoxfree.Language"
+            },
+            "platformName": "Android",
+            "automationName": "UiAutomator2",
+            "platformVersion": "14",
+            "deviceName": "emulator-5554",
+            "appPackage": "com.project.kiranchavan.detoxfree",
+            "appActivity": "com.project.kiranchavan.detoxfree.Language",
+            "deviceUDID": "emulator-5554",
+            "deviceApiLevel": 34,
+            "deviceScreenSize": "1080x2340",
+            "deviceScreenDensity": 420,
+            "deviceModel": "sdk_gphone64_x86_64",
+            "deviceManufacturer": "Google",
+            "pixelRatio": 2.625,
+            "statBarHeight": 63,
+            "viewportRect": {
+              "left": 0,
+              "top": 63,
+              "width": 1080,
+              "height": 2214
+            }
+          }
+        },
+        "isReactElement": false,
+        "isShadowElement": false
+      },
+      "direction": "down"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.ListView[@resource-id='com.project.kiranchavan.detoxfree:id/listview']//android.widget.RelativeLayout[1]//android.widget.TextView[1]"
+}

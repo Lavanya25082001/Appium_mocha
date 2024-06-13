@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.FrameLayout//android.widget.LinearLayout//android.widget.Button[@resource-id='com.project.kiranchavan.detoxfree:id/add_btn']"
+}

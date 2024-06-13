@@ -1,0 +1,20 @@
+{
+  "actions": [
+    {
+      "action": "press",
+      "x": null,
+      "y": null,
+      "pointerType": "touch"
+    },
+    {
+      "action": "moveTo",
+      "x": null,
+      "y": null,
+      "pointerType": "touch"
+    },
+    {
+      "action": "release",
+      "pointerType": "touch"
+    }
+  ]
+}

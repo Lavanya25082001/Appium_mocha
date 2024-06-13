@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Dec 07 13:21:49 IST 2023","Thu Dec 07 13:22:07 IST 2023","17785","","My Login application","","","","should login with valid credentials",""
+"passed","Thu Dec 07 13:22:07 IST 2023","Thu Dec 07 13:22:08 IST 2023","1142","","My Login application","","","","search for elements",""
+"unknown","Thu Dec 07 13:22:08 IST 2023","Thu Dec 07 13:22:28 IST 2023","19690","","My Login application","","","","implementing actions on  the resulted data",""

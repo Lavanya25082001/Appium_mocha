@@ -1,0 +1,27 @@
+{
+  "actions": [
+    {
+      "action": "press",
+      "options": {
+        "x": 558,
+        "y": 94
+      }
+    },
+    {
+      "action": "wait",
+      "options": {
+        "ms": 500
+      }
+    },
+    {
+      "action": "moveTo",
+      "options": {
+        "x": 460,
+        "y": 2084
+      }
+    },
+    {
+      "action": "release"
+    }
+  ]
+}
